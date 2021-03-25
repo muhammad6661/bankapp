@@ -12,4 +12,4 @@ func Total (card [] types.Card) types.Money {
        }
      }
   return  types.Money(sum)
-    }
+      } 
